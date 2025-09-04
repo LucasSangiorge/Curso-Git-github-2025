@@ -1,15 +1,16 @@
 Comandos Básicos para Git
-ls = Está listando todos os arquivos e pastas de onde estamos
-cd = Mudar de diretório de onde estamos 
-pwd= caminho exato de onde estamos
-ls -a= mostra as pastas ocultas
-cd..= subimos uma pasta acima
-mkdir nome da pasta = Cria uma pasta no local em que estamos
-cat = comandos_bash.txt= usado para listar o que tem dentro do arquivo
-git init . = Vai tornar a nossa pasta uma pasta especial, onde podemos ter um repositório de git
+Arquivo novo
+git init . -> Cria um repositorio git na pasta atual
+git status -> Mostra o status do trabalho de cada arquivo
+gitt add nome_arquivo -> adciona arquivos para ser commit
+git commit -m "msg" -> Faz o commit do que estava para ser commitado
 
-git status = Vai mostrar como que está o seu diretório. Se tem algum arquivo sem add, ou se tem algum arquivo para add etc.
+pwd -> Mostra o diretorio onde estamos.
+ls -> Mostra os arquivos dentro da pasta
+ls -a -> Mostra arquivos oculto
+cd -> Muda o diretorio
+cd .. -> Volta um diretorio
+mkdir -> Cria uma nova pasta onde está o diretorio
 
 
-
-
+ 
