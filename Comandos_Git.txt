@@ -8,12 +8,29 @@ git commit -m "msg" -> Faz o commit do que estava para ser commitado
 pwd -> Mostra o diretorio onde estamos.
 ls -> Mostra os arquivos dentro da pasta
 ls -a -> Mostra arquivos oculto
-cd -> Muda o diretorio
-cd .. -> Volta um diretorio
+cd -> Muda o diretório
+cd .. -> Volta um diretório
 mkdir -> Cria uma nova pasta onde está o diretório
 rm -> Remove arquivo ou diretórios
-rm -rf -> Remove de forma recursiva e forçada todos diretorios
+rm -rf -> Remove de forma recursiva e forçada todos diretórios
 
 git log -> Mostra todos os históricos de todos os nossos saves, dos mais atuais para os mais antigos
+
+git add . -> O ponto quer dizer que add  arquivos do diretório atual
+git add * -> Add tudo do diretório atual
+git diff  -> Mostra o que foi trabalhado no dia anterior o que foi modificado e não commitamos
+
+--Fluxo de trabalho Git
+1.Criar o diretório do projeto
+2.iniciar o git dentro do diretório criado (got init.)
+3.editar ou criar arquivos
+4.git status
+5.git add <nome arquivos>
+6.git status
+7.git commit -m "Mensagem"
+8.git status
+9.Volta para o passo 3 
+
+
 
  
