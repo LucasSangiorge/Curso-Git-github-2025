@@ -1,0 +1,15 @@
+Comandos Básicos para Git
+ls = Está listando todos os arquivos e pastas de onde estamos
+cd = Mudar de diretório de onde estamos 
+pwd= caminho exato de onde estamos
+ls -a= mostra as pastas ocultas
+cd..= subimos uma pasta acima
+mkdir nome da pasta = Cria uma pasta no local em que estamos
+cat = comandos_bash.txt= usado para listar o que tem dentro do arquivo
+git init . = Vai tornar a nossa pasta uma pasta especial, onde podemos ter um repositório de git
+
+git status = Vai mostrar como que está o seu diretório. Se tem algum arquivo sem add, ou se tem algum arquivo para add etc.
+
+
+
+
