@@ -18,7 +18,11 @@ git log -> Mostra todos os históricos de todos os nossos saves, dos mais atuais
 
 git add . -> O ponto quer dizer que add  arquivos do diretório atual
 git add * -> Add tudo do diretório atual
-git diff  -> Mostra o que foi trabalhado no dia anterior o que foi modificado e não commitamos
+git diff nome do arquivo -> Mostra o que foi trabalhado no dia anterior o que foi modificado e não commitamos
+git diff . -> Mostra o que foi modificado em todos os arquivos.
+git checkout nome da branch -> ele cria uma novo arquivo e estamos trabalhando em um novo arquivo.
+git merge 'nome' -> Ela junta o commit secundário e joga para o meio da principal para ele não sumir.
+git branch -d -> Ele deleta a branch
 
 --Fluxo de trabalho Git
 1.Criar o diretório do projeto
