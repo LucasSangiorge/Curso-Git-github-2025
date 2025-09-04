@@ -10,7 +10,10 @@ ls -> Mostra os arquivos dentro da pasta
 ls -a -> Mostra arquivos oculto
 cd -> Muda o diretorio
 cd .. -> Volta um diretorio
-mkdir -> Cria uma nova pasta onde está o diretorio
+mkdir -> Cria uma nova pasta onde está o diretório
+rm -> Remove arquivo ou diretórios
+rm -rf -> Remove de forma recursiva e forçada todos diretorios
 
+git log -> Mostra todos os históricos de todos os nossos saves, dos mais atuais para os mais antigos
 
  
