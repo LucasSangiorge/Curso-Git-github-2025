@@ -5,3 +5,5 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de codigo e re
 Lucas Novo integrante do projeto
 
 curso git 2025
+
+Curso git no youtube
